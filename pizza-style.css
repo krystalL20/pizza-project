@@ -1,0 +1,22 @@
+body {
+     background-color: #e1bee7;
+	font-family: Arial;
+}
+
+h1 {
+	font-family: 'Montserrat', sans-serif; /*Google Web Font style declaration */
+	
+}
+ol, ul { 
+     list-style-type: none;
+      }
+
+fieldset{
+     width: 50%;
+     border: 1px dotted;
+     border-radius: 15px;
+}
+
+legend{
+     font-weight: bold;
+}
